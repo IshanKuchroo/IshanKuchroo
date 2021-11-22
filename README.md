@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IshanKuchroo
+- 👋 Hi, I’m IshanKuchroo
 - 👀 I’m interested in Data Engineering and Machine Learninng
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Deep Learning and NLP
