@@ -1,7 +1,7 @@
 - 👋 Hi, I’m IshanKuchroo
 - 👀 I’m interested in Data Engineering and Machine Learninng
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Deep Learning and NLP
+- 🌱 I’m currently learning how to to be a better Data Scientist
+- 💞️ I’m looking to collaborate on Time Series, Deep Learning and NLP
 - 📫 How to reach me ...
 
 <!---
